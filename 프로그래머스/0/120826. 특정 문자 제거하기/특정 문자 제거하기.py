@@ -1,3 +1,6 @@
 def solution(my_string, letter):
-    result=my_string.replace(letter,"")
-    return result
+    answer = ""
+    for i in my_string:
+        if i!=letter:
+          answer+=i
+    return answer
