@@ -5,8 +5,7 @@ def solution(board):
     n=len(board[0])
     for b in board:
         for i in range(0,n):
-            for value in [b[i]]:
-                if value==1:
+                if b[i]==1:
                     point=[j,i]
                     box.append(point)
             
