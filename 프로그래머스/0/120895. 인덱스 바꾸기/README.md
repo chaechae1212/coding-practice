@@ -1,10 +1,10 @@
 # [level 0] 인덱스 바꾸기 - 120895 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120895?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120895?language=java) 
 
 ### 성능 요약
 
-메모리: 10.1 MB, 시간: 0.00 ms
+메모리: 87.3 MB, 시간: 11.38 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 03월 04일 14:50:17
+2025년 04월 01일 12:16:56
 
 ### 문제 설명
 
